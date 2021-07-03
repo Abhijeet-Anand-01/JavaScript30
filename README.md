@@ -1,12 +1,12 @@
 <h1> 30 days JavaScript Challenge </h1>
 
-Day 1 - Drum Kit
+Day 1 - Drum Kit <br><hr>
 https://abhijeet-anand-01.github.io/JavaScript30/Drum%20Kit.html
 
-Day 2 - Clock
+Day 2 - Clock <br>
 https://abhijeet-anand-01.github.io/JavaScript30/Clock.html
 
-Day 3 - Slider CSS value changer
+Day 3 - Slider CSS value changer <hr>
 https://abhijeet-anand-01.github.io/JavaScript30/Slider-CSS%20value%20changer.html
 
 Day 4 - Array Cardio 1
