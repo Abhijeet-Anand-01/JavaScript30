@@ -55,32 +55,3 @@ kbd {
   letter-spacing: 0.1rem;
   color: #ffc600;
 }
-
-
-.pagination {
-  position: absolute;
-  left: 50%;
-  bottom: 10%;
-  transform: translate(-50%, -50%);  
-}
-
-.pagination a {
-  color: #fff;
-  background-color: rgba(0, 0, 0, 0.3);
-  border: rgba(0, 0, 0, 0.1) 3px solid;
-
-  border-radius: 50%;
-  font-size: 2.5rem;
-  padding: 8px 16px;
-  text-decoration: none;
-  transition: all 0.2s ease-in-out;
-}
-
-.pagination a.active {
-  background-color: rgba(255, 255, 255, 0.7);
-  color: #000;
-}
-
-.pagination a:hover:not(.active) {
-  background-color: #000;
-}
