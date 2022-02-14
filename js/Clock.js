@@ -16,14 +16,7 @@ function setDate() {
     const hour = now.getHours();
     const hourDegrees = ((hour / 12) * 360) + ((mins / 60) * 30) + 90;
     hourHand.style.transform = `rotate(${hourDegrees}deg)`;
-
-    // if(seconds || mins || hour == 59) {
-    // clock-face.classList.remove('transition');
-    // clock-face.classList.add('transition');
-    // }
-    // console.log(seconds);
 }
 
 setInterval(setDate, 1000);
 
-setDate();
