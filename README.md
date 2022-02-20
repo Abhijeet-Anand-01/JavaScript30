@@ -19,3 +19,7 @@ https://abhijeet-anand-01.github.io/JavaScript30/Array%20Cardio%201.html
 Day 5 - Flex Image Gallery <br>
 https://abhijeet-anand-01.github.io/JavaScript30/Flex%20Image%20Gallery.html
 <hr>
+
+Day 6 - Ajax Type Search <br>
+https://abhijeet-anand-01.github.io/JavaScript30/Ajax%20type%20search.html
+<hr>
