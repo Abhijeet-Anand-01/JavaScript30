@@ -23,3 +23,7 @@ https://abhijeet-anand-01.github.io/JavaScript30/Flex%20Image%20Gallery.html
 Day 6 - Ajax Type Search <br>
 https://abhijeet-anand-01.github.io/JavaScript30/Ajax%20type%20search.html
 <hr>
+
+Day 7 - Array Cardio 2 <br>
+https://abhijeet-anand-01.github.io/JavaScript30/Array%20Cardio%202.html
+<hr>
