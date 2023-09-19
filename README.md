@@ -1,7 +1,7 @@
 <h1> 30 days JavaScript Challenge </h1> <hr>
 
 Day 1 - Drum Kit <br>
-https://abhijeet-anand-01.github.io/JavaScript30/Drum%20Kit.html
+https://abhijeet-anand-01.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/
 <hr>
 
 Day 2 - Clock <br>
